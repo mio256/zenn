@@ -30,7 +30,7 @@ StableDiffusionを触ったことがあるﾁｮｯﾄﾃﾞｷﾙ人向け
 2. 自分が知らなかったものなどがあれば実践してみる
 3. 「あれ？こいつ間違ってないか？」「こういうやり方もあるよ！」と思ったら私のGithubにIssueを飛ばす（より良い本にするためにどうかお力添えを...!）
 
-[この本のGithub](https://github.com/mio256/zenn/tree/main/books/stable-diffusion-life)
+https://github.com/mio256/zenn/tree/main/books/stable-diffusion-life
 
 ## 前提条件
 
@@ -51,4 +51,3 @@ Mac/Linuxも可能ですが、互換性問題や謎詰みエラーなどを避�
 https://www.youtube.com/@RobinAndSlime
 
 https://freeblog-video.com/
-
