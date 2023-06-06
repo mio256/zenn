@@ -37,7 +37,7 @@ https://github.com/mio256/zenn/tree/main/books/stable-diffusion-life
 ```
 OS : Windows10 / Windows11
 GPU : VRAM 4G 以上 / Nvidia推奨
-SDD : 空き容量 20G以上
+SSD : 空き容量 20G以上
 ```
 
 Mac/Linuxも可能ですが、互換性問題や謎詰みエラーなどを避けるためにWindowsを使用します。
