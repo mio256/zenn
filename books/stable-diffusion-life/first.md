@@ -30,7 +30,7 @@ StableDiffusionを触ったことがあるﾁｮｯﾄﾃﾞｷﾙ人向け
 2. 自分が知らなかったものなどがあれば実践してみる
 3. 「あれ？こいつ間違ってないか？」「こういうやり方もあるよ！」と思ったら私のGithubにIssueを飛ばす（より良い本にするためにどうかお力添えを...!）
 
-<!-- TODO Githubリンク -->
+[この本のGithub](https://github.com/mio256/zenn/tree/main/books/stable-diffusion-life)
 
 ## 前提条件
 
@@ -40,7 +40,7 @@ GPU : VRAM 4G 以上 / Nvidia推奨
 SDD : 空き容量 20G以上
 ```
 
-Mac/Linuxも可能ですが、互換性問題や謎詰みエラーなどを少しでも避けるためにWindowsを使用します。
+Mac/Linuxも可能ですが、互換性問題や謎詰みエラーなどを避けるためにWindowsを使用します。
 
 ちなみに、私はMac信者です。
 
@@ -48,12 +48,7 @@ Mac/Linuxも可能ですが、互換性問題や謎詰みエラーなどを少�
 
 私がStableDiffusion学習において非常にお世話になった先人たちを紹介させていただきます。
 
-<!-- TODO リンク整理 -->
-
 https://www.youtube.com/@RobinAndSlime
 
 https://freeblog-video.com/
 
-https://www.chichi-pui.com/
-
-https://note.com/nkmonaka/n/n32973263de50
