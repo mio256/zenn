@@ -26,12 +26,49 @@ https://youtu.be/8QIJMGW_-LM
 
 `webui-user.bat`を実行することで、WebUIを起動することができます。
 
-```sh
+```sh:powershell
+> cd stable-diffusion-webui
 > ./webui-user.bat
 ```
 
 ## 操作
 
+基本操作については、こちらの記事が詳しくまとまっているのでおすすめです。
+
+https://freeblog-video.com/stable-diffusion_basic/
+
 <!-- TODO 操作画面画像 -->
 
-<!-- TODO オプションを付けないとうまく行かなかった気がするので、追記 -->
+## テスト実行
+
+とりあえず、それっぽいものを生成してみましょう。
+
+猫が寝ている画像を生成してみます。
+
+ポジティブプロンプトには生成してほしいものを書き、ネガティブプロンプトには生成してほしくないものを書きます。
+
+```:PositivePrompt
+```
+
+```:NegativePrompt
+```
+
+<!-- TODO 操作画面 -->
+
+<!-- TODO 実行結果 -->
+
+寝ている猫の画像が生成できましたね！
+
+## エラー集
+
+実行時にこのようなエラーが出た場合は、`webui-user.bat`のオプションに`--xtransformer`を追加すると治る場合があります。
+
+```:error
+
+```
+
+```:webui-user.bat
+
+```
+
+<!-- TODO エラー分析; エラー内容、編集内容を追記 -->

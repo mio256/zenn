@@ -1,7 +1,7 @@
 title: "ゼロから始めるStableDiffusion生活"
 summary: "巷にはGoogleColabを用いた方法や難解過ぎる画像生成系AIの解説などが多く、ローカル環境で心地よいStableDiffusionの解説記事がなかったため自身のアウトプットがてら本にまとめます。"
 topics: ["StableDiffusion", "AI", "Python", "機械学習", "画像生成"]
-published: false
+published: true
 price: 0 # 有料の場合200〜5000
 # 本に含めるチャプターを順番に並べましょう
 chapters:
@@ -9,8 +9,3 @@ chapters:
   - about_stable-diffusion
   - webui
   - models
-  - extensions
-  - embedding
-  - Lora
-  - MyLora
-  - Scripts
