@@ -20,6 +20,8 @@ wlan.connect('Wireless Network', 'The Password')
 
 PDFのサンプルコードをそのままコピーすると、`'`（0x27） が `’`（0x60） になってしまうので、`"` に直す。
 
+もちろん、ちゃんとシングルクォートにすればよいだけだが、ミスを減らすためにダブルクォートのほうが安心できる。
+
 ```py
 wlan.connect("Wireless Network", "The Password")
 ```
