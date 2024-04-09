@@ -3,7 +3,7 @@ title: "go cleanしたらストレージが15GB空いた話"
 emoji: "😲"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["go", "clean", "storage", "mac"]
-published: false
+published: true
 ---
 
 ## はじめに
