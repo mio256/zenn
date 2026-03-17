@@ -10,7 +10,7 @@ published: true
 
 - Homebrew 版の Claude Code はバージョンが遅れる
 - npm（native install）は自動更新されるため常に最新
-- NEW: [brew updateしていない愚か者だっただけだった…](https://zenn.dev/link/comments/8ce07251075ac8)
+- NEW: [brew updateしていない愚か者だった…](https://zenn.dev/link/comments/8ce07251075ac8)
 
 ## バージョン差の実例（2026/03/13 時点）
 
