@@ -3,7 +3,7 @@ title: "ISUCON2026参加記：Codex（6.1 Sol）と2万点の先で詰まった�
 emoji: "🪑"
 type: "tech"
 topics: ["isucon", "go", "postgresql", "生成ai", "パフォーマンス"]
-published: false
+published: true
 ---
 
 ISUCON2026にCodex（6.1 Sol）を使って参加しました。お題は写真投稿SNS「ISUReal」。Goのアプリ3台がPostgreSQLを共有し、欧米のアプリからDBへの往復には約100msの遅延がある構成でした。
